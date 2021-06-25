@@ -1,1 +1,3 @@
-Hello world
+Hello to day s friday
+
+Checking out branches ... The git checkout command lets you navigate between the branches created by git branch . Checking out a branch updates the files in the ...
